@@ -9,8 +9,9 @@ import MainPage from './Pages/Main';
 import Vacancies from './Pages/Specialist';
 import Jobs from './Pages/Jobs';
 import Specialist from './Pages/Specialist'
-import Companies from './Pages/Companies';
 import Salaries from './Pages/Salaries';
+import Companies from './Pages/Companies';
+
 
 ReactDOM.render(
   <React.StrictMode>
